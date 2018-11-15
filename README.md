@@ -36,6 +36,6 @@ Sticky Notes Application
 * Save function interaction with local-storage is not bug-free, could not fix it within the stipulated time of 90 minutes
 * Bug was caused by localStorage.removeItem - does not remove key if value associated with key is null
 * Need to think of possible workarounds or a better way to fetch localStorage on page load
-* One of the better engineering tests I've had that was
+* One of the better engineering tests I've had because
 1) Sufficient time given
 2) Level of difficulty appropriate for candidate
