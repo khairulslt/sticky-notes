@@ -11,7 +11,7 @@ Sticky Notes Application
 ### Prerequisites
 
 * Any modern browser
-* Testing was done on MacOS with Google Chrome
+* Testing was done on MacOS (MacBook Pro) with Google Chrome
 
 ### How to Run
 
