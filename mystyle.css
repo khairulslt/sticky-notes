@@ -1,0 +1,30 @@
+* {
+	box-sizing: border-box;
+}
+body { 
+	background-color: #F6F6F6;
+}
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  height: 400px;
+}
+li {
+  height: 30%;
+  padding: 20px;
+}
+button:hover {
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.05);
+}
+textarea {
+	resize: none;
+	display: block;
+}
+.delete-button {
+	display: block;
+	margin-left: 270px;
+}
+.content-text {
+	margin-bottom: 20px;
+}
