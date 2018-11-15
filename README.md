@@ -28,7 +28,7 @@ Sticky Notes Application
 
 * [Khairul Abdullah](https://khairulslt.me)
 
-### Final Thoughts
+## Remarks
 
 * Spartan and minimal user interface, would love to come back and work on it again in the future
 * Was not able to design and beautify with proper CSS within 90 minutes
