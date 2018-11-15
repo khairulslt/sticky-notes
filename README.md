@@ -4,19 +4,19 @@ Sticky Notes Application
 
 ## Getting Started
 
-(with Git installed): git clone https://github.com/khairulslt/sticky-notes.git
-(Git/SSH): git clone git@github.com:khairulslt/sticky-notes.git
-(without Git): click the "Clone or Download" green button at the top-right hand corner > Download Zip
+* (with Git installed): git clone https://github.com/khairulslt/sticky-notes.git
+* (Git/SSH): git clone git@github.com:khairulslt/sticky-notes.git
+* (without Git): click the "Clone or Download" green button at the top-right hand corner > Download Zip
 
 ### Prerequisites
 
-Any modern browser
-Testing was done on MacOS with Google Chrome
+* Any modern browser
+* Testing was done on MacOS with Google Chrome
 
 ### How to Run
 
-Find and double-click the folder you git cloned/zip-downloaded 
-Double-click index.html
+* Find and double-click the folder you git cloned/zip-downloaded 
+* Double-click index.html
 
 ### Built With
 
