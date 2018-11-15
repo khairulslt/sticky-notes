@@ -1,87 +1,41 @@
 # Project Title
 
-One Paragraph of project description goes here
+Sticky Notes Application
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+(with Git installed): git clone https://github.com/khairulslt/sticky-notes.git
+(Git/SSH): git clone git@github.com:khairulslt/sticky-notes.git
+(without Git): click the "Clone or Download" green button at the top-right hand corner > Download Zip
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Any modern browser
+Testing was done on MacOS with Google Chrome
 
-```
-Give examples
-```
+### How to Run
 
-### Installing
+Find and double-click the folder you git cloned/zip-downloaded 
+Double-click index.html
 
-A step by step series of examples that tell you how to get a development env running
+### Built With
 
-Say what the step will be
+* [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) - Standard HTML
+* [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3) - Standard CSS
+* [JavaScript](https://www.javascript.com/) - Vanilla JavaScript
 
-```
-Give the example
-```
+### Authors
 
-And repeat
+* [Khairul Abdullah](https://khairulslt.me)
 
-```
-until finished
-```
+### Final Thoughts
 
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Was not able to design and beautify with proper CSS within 90 minutes
+* Was not able to check out mobile responsiveness and cross-browser views
+* Used Flexbox instead of Grid since less likely to have cross-browser implications 
+* Save function interaction with local-storage is not bug-free, could not fix it within the stipulated time of 90 minutes
+* Bug was caused by localStorage.removeItem - does not remove key if value associated with key is null
+* Need to think of possible workarounds or a better way to fetch localStorage on page load
+* One of the better engineering tests I've had that was
+1) Sufficient time given
+2) Level of difficulty appropriate for candidate
