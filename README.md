@@ -30,9 +30,11 @@ Sticky Notes Application
 
 ### Final Thoughts
 
+* Spartan and minimal user interface, would love to come back and work on it again in the future
 * Was not able to design and beautify with proper CSS within 90 minutes
 * Was not able to check out mobile responsiveness and cross-browser views
 * Used Flexbox instead of Grid since less likely to have cross-browser implications 
+* All JS-related requirements met
 * Save function interaction with local-storage is not bug-free, could not fix it within the stipulated time of 90 minutes
 * Bug was caused by localStorage.removeItem - does not remove key if value associated with key is null
 * Need to think of possible workarounds or a better way to fetch localStorage on page load
