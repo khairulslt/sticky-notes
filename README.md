@@ -1,6 +1,6 @@
-# Project Title
+# Sticky Notes Application
 
-Sticky Notes Application
+
 
 ## Getting Started
 
@@ -33,13 +33,8 @@ Sticky Notes Application
 * Spartan and minimal user interface, would love to come back and work on it again in the future
 * First thing that comes to mind is to add an auto-save function (like how Microsoft Word auto-saves every few seconds)
 * Auto-save would be a great feature for added User Experience
-* Was not able to design and beautify with proper CSS within 90 minutes
-* Was not able to check out mobile responsiveness and cross-browser views
-* Used Flexbox instead of Grid since less likely to have cross-browser implications 
-* All JS-related requirements met
+* Used Flexbox instead of Grid since less likely to have cross-browser implications
 * Save function interaction with local-storage is not bug-free, could not fix it within the stipulated time of 90 minutes
 * Bug was caused by localStorage.removeItem - does not remove key if value associated with key is null
 * Need to think of possible workarounds or a better way to fetch localStorage on page load
-* One of the better engineering tests I've had because
-1) Sufficient time given
-2) Level of difficulty appropriate for candidate
+
