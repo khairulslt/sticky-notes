@@ -1,6 +1,8 @@
 # Sticky Notes Application
 
+## What is This?
 
+* A challenge to build a sticky notes application built in less than 60 minutes without any Frameworks (that's right no jQuery either!)
 
 ## Getting Started
 
